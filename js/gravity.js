@@ -50,14 +50,10 @@ Let newatom at Carl Sagan be curvx
 Let newatom at Edwin Hubble be curvy
 Let newatom at Albert Einstein be curm
 Unite newatom into resultatom with Germany
-Shout "comparing cur and result"
-Shout curatom
-Shout resultatom
 Rock the ether with resultatom
 Build outerloopindex up
 
 Unite the ether into resultuniverse with USA
-Shout resultuniverse
 Give resultuniverse back
 `
 
