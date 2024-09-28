@@ -15,7 +15,10 @@
     Edwin Hubble        ->  3
     Albert Einstein     ->  4
     Von Braun           ->  10
+
     Germany             -> "//"
+    USA                 -> ","
+    Sowjet Union        -> "/"
 
 */
 var rockstar_constants = `Stephen Hawking is semifinite
@@ -25,4 +28,6 @@ Edwin Hubble is isovolumetric
 Albert Einstein was cool
 Von Braun was a rocketpunk
 Germany is "//"
+USA is ","
+Sowjet Union is "/"
 `

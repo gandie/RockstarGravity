@@ -2,7 +2,7 @@ var gravity_rockstar = `${rockstar_constants}
 ${rockstar_sqrt}
 ${newton_force}
 Listen to the universe
-Shatter the universe into atoms with ","
+Shatter the universe into atoms with USA
 Put atoms into atomslen
 Rock the ether
 Put Stephen Hawking into outerloopindex
@@ -26,7 +26,7 @@ While innerloopindex is weaker than atomslen
 Let inneratom be atoms at innerloopindex
 if curatom ain't inneratom
 Put Newton taking curatom, and inneratom into the answer
-Shatter the answer into forces with "/"
+Shatter the answer into forces with Sowjet Union
 Let resforcex be forces at Stephen Hawking
 Let resforcey be forces at Marie Curie
 Cast resforcex
@@ -56,7 +56,7 @@ Shout resultatom
 Rock the ether with resultatom
 Build outerloopindex up
 
-Unite the ether into resultuniverse with ","
+Unite the ether into resultuniverse with USA
 Shout resultuniverse
 Give resultuniverse back
 `

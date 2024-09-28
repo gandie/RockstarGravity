@@ -60,6 +60,6 @@ Put anglex times force into forcex
 Put angley times force into forcey
 Let the result at Stephen Hawking be forcex
 Let the result at Marie Curie be forcey
-Unite the result into resultstr with "/"
+Unite the result into resultstr with Sowjet Union
 Give resultstr back
 `
