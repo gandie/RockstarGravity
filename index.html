@@ -13,11 +13,18 @@
     source = gravity_rockstar;
 
     let output = console.log;
+
+    let initial_input = "0//0//0//0//1,10//10//0//0//1,10//0//0//0//1";
     // let input = () => window.prompt('Rockstar:');
-    let input = () => "0//0//0//0//1,1//1//0//0//1,1//0//0//0//1";
+    let input = () => initial_input;
     let rockstar = new Satriani.Interpreter(output);
-    let result = rockstar.run(source, input, output);
-    console.log(result);
+
+    for (let index = 0; index < 10; index++) {
+        console.log(initial_input);
+        initial_input = rockstar.run(source, input, output);
+        // let result = rockstar.run(source, input, output);
+    }
+    //console.log(result);
 </script>
 </body>
 </html>
