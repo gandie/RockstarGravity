@@ -31,8 +31,8 @@ Let resforcex be forces at Stephen Hawking
 Let resforcey be forces at Marie Curie
 Cast resforcex
 Cast resforcey
-Put resforcex over 1000 into resforcex
-Put resforcey over 1000 into resforcey
+Put resforcex over Huygens into resforcex
+Put resforcey over Huygens into resforcey
 Put curforcex with resforcex into curforcex
 Put curforcey with resforcey into curforcey
 

@@ -15,6 +15,8 @@
     Edwin Hubble        ->  3
     Albert Einstein     ->  4
     Von Braun           ->  10
+    Cassini             ->  100
+    Huygens             ->  1000
 
     Germany             -> "//"
     USA                 -> ","
@@ -27,6 +29,8 @@ Carl Sagan is enthusiastic
 Edwin Hubble is isovolumetric
 Albert Einstein was cool
 Von Braun was a rocketpunk
+Put Von Braun times Von Braun into Cassini
+Put Cassini times Von Braun into Huygens
 Germany is "//"
 USA is ","
 Sowjet Union is "/"
