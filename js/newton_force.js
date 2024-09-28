@@ -48,7 +48,6 @@ Put diffxs with diffys into hyp
 Put Seti taking hyp into dist
 Put dist times dist into dists
 Put massapple times massneedle into massmult
-Shout massmult
 Put massmult over dists into force
 Put diffx over dist into anglex
 Put diffy over dist into angley
