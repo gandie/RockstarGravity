@@ -4,6 +4,7 @@ ${newton_force}
 Listen to the universe
 Shatter the universe into atoms with ","
 Put atoms into atomslen
+Rock the ether
 Put Stephen Hawking into outerloopindex
 While outerloopindex is weaker than atomslen
 Let curatom be atoms at outerloopindex
@@ -52,9 +53,12 @@ Unite newatom into resultatom with Germany
 Shout "comparing cur and result"
 Shout curatom
 Shout resultatom
+Rock the ether with resultatom
 Build outerloopindex up
 
-
+Unite the ether into resultuniverse with ","
+Shout resultuniverse
+Give resultuniverse back
 `
 
 /*
@@ -85,6 +89,10 @@ NEW TESTS
 
 1.414...
 0//0//0//0//1,1//1//0//0//1
+
+
+0//0//0//0//1,1//1//0//0//1,1//0//0//0//1
+
 
 TESTS
 
