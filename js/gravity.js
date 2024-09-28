@@ -19,6 +19,11 @@ Give the goldrecord back
 
 Put Seti taking Von Braun into the answer
 Shout the answer
+Newton wants apples and needles
+Shatter apples into subapples with "-"
+Shatter needles into subneedles with "-"
+Put subapples at Stephen Hawking into applex
+Put subneedles at Stephen Hawking into needlex
 `
 
 /*

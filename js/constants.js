@@ -1,0 +1,21 @@
+/*
+    Constants module, defining plain variables for common usage
+    Remember to put those into separate namespace if you intend
+    to change the values, e.g. in loops
+
+    Constants rules:
+    - Numbers and Strings are written as poetic literals
+    - Basic integers are famous scientists
+
+    Full list:
+    Stephen Hawking     ->  0
+    Marie Curie         ->  1
+    Carl Sagan          ->  2
+    Von Braun           ->  10
+
+*/
+var rockstar_constants = `Stephen Hawking is semifinite
+Marie Curie is spaceworthy
+Carl Sagan is enthusiastic
+Von Braun was a rocketpunk
+`
