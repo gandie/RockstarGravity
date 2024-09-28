@@ -55,6 +55,7 @@ Put massapple times massneedle into massmult
 Put massmult over dists into force
 Put diffx over dist into anglex
 Put diffy over dist into angley
+Put force times 1000 into force
 Put anglex times force into forcex
 Put angley times force into forcey
 Let the result at Stephen Hawking be forcex

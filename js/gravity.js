@@ -24,23 +24,19 @@ Put Stephen Hawking into innerloopindex
 While innerloopindex is weaker than atomslen
 Let inneratom be atoms at innerloopindex
 if curatom ain't inneratom
-Shout "Gravity calc here!"
-Shout inneratom
-Shout curatom
 Put Newton taking curatom, and inneratom into the answer
 Shatter the answer into forces with "/"
 Let resforcex be forces at Stephen Hawking
 Let resforcey be forces at Marie Curie
 Cast resforcex
 Cast resforcey
+Put resforcex over 1000 into resforcex
+Put resforcey over 1000 into resforcey
 Put curforcex with resforcex into curforcex
 Put curforcey with resforcey into curforcey
 
 Build innerloopindex up
 
-Shout "outer loop after calc, force results"
-Shout curforcex
-Shout curforcey
 Put curforcex over curm into curaccx
 Put curforcey over curm into curaccy
 Put curvx with curaccx into curvx
@@ -53,6 +49,7 @@ Let newatom at Carl Sagan be curvx
 Let newatom at Edwin Hubble be curvy
 Let newatom at Albert Einstein be curm
 Unite newatom into resultatom with Germany
+Shout "comparing cur and result"
 Shout curatom
 Shout resultatom
 Build outerloopindex up
