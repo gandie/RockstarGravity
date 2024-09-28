@@ -6,6 +6,7 @@
     Constants rules:
     - Numbers and Strings are written as poetic literals
     - Basic integers are famous scientists
+    - Delimiter strings are countries
 
     Full list:
     Stephen Hawking     ->  0
@@ -14,6 +15,7 @@
     Edwin Hubble        ->  3
     Albert Einstein     ->  4
     Von Braun           ->  10
+    Germany             -> "//"
 
 */
 var rockstar_constants = `Stephen Hawking is semifinite
@@ -22,4 +24,5 @@ Carl Sagan is enthusiastic
 Edwin Hubble is isovolumetric
 Albert Einstein was cool
 Von Braun was a rocketpunk
+Germany is "//"
 `

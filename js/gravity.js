@@ -7,7 +7,7 @@ Put atoms into atomslen
 Put Stephen Hawking into outerloopindex
 While outerloopindex is weaker than atomslen
 Let curatom be atoms at outerloopindex
-Shatter curatom into curquarks with "-"
+Shatter curatom into curquarks with Germany
 Let curx be curquarks at Stephen Hawking
 Let cury be curquarks at Marie Curie
 Let curvx be curquarks at Carl Sagan
@@ -52,7 +52,8 @@ Let newatom at Marie Curie be cury
 Let newatom at Carl Sagan be curvx
 Let newatom at Edwin Hubble be curvy
 Let newatom at Albert Einstein be curm
-Unite newatom into resultatom with "-"
+Unite newatom into resultatom with Germany
+Shout curatom
 Shout resultatom
 Build outerloopindex up
 
@@ -78,6 +79,15 @@ for atom in atoms:
 
     x = x + vx
     y = y + vy
+
+
+NEW TESTS
+
+1
+0//0//0//0//1,1//0//0//0//1
+
+1.414...
+0//0//0//0//1,1//1//0//0//1
 
 TESTS
 

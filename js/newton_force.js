@@ -30,8 +30,8 @@
 
 // TODO: this is far from idiomatic rockstar, watch QA !
 var newton_force = `Newton wants apples and needles
-Shatter apples into subapples with "-"
-Shatter needles into subneedles with "-"
+Shatter apples into subapples with Germany
+Shatter needles into subneedles with Germany
 Put subapples at Stephen Hawking into applex
 Put subneedles at Stephen Hawking into needlex
 Put subapples at Marie Curie into appley
@@ -40,8 +40,12 @@ Put subapples at Albert Einstein into massapple
 Put subneedles at Albert Einstein into massneedle
 Cast massapple
 Cast massneedle
-Put applex without needlex into diffx
-Put appley without needley into diffy
+Cast applex
+Cast needlex
+Cast appley
+Cast needley
+Put needlex without applex into diffx
+Put needley without appley into diffy
 Put diffx of diffx into diffxs
 Put diffy of diffy into diffys
 Put diffxs with diffys into hyp
