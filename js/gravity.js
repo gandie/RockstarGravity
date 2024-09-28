@@ -41,6 +41,19 @@ Build innerloopindex up
 Shout "outer loop after calc, force results"
 Shout curforcex
 Shout curforcey
+Put curforcex over curm into curaccx
+Put curforcey over curm into curaccy
+Put curvx with curaccx into curvx
+Put curvy with curaccy into curvy
+Put curx with curvx into curx
+Put cury with curvy into cury
+Let newatom at Stephen Hawking be curx
+Let newatom at Marie Curie be cury
+Let newatom at Carl Sagan be curvx
+Let newatom at Edwin Hubble be curvy
+Let newatom at Albert Einstein be curm
+Unite newatom into resultatom with "-"
+Shout resultatom
 Build outerloopindex up
 
 
