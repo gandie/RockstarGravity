@@ -11,11 +11,13 @@
     Stephen Hawking     ->  0
     Marie Curie         ->  1
     Carl Sagan          ->  2
+    Albert Einstein     ->  4
     Von Braun           ->  10
 
 */
 var rockstar_constants = `Stephen Hawking is semifinite
 Marie Curie is spaceworthy
 Carl Sagan is enthusiastic
+Albert Einstein was cool
 Von Braun was a rocketpunk
 `

@@ -10,8 +10,20 @@
     Example call:      "Put Seti taking Von Braun into the answer"
     --> anwser = Seti(Von Braun)
 
+    Pseudo:
+
+    def sqrt(num):
+        divisor = num / 2
+        for _ in range(10):
+            new_divisor = num / divisor
+            sum = new_divisor + divisor
+            divisor = sum / 2
+        return divisor
+
 */
-var rockstar_sqrt = `Seti wants signals
+var rockstar_sqrt = `Put Von Braun into the rocket
+Put Carl Sagan into the array
+Seti wants signals
 Put signals between the array into the goldrecord
 Put Stephen Hawking into the equation
 Until the equation is the rocket

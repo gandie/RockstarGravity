@@ -1,50 +1,41 @@
-var gravity_rockstar = `Listen to the universe
+var gravity_rockstar = `${rockstar_constants}
+${rockstar_sqrt}
+${newton_force}
+Listen to the universe
 Shatter the universe into atoms with ","
-Stephen Hawking is semifinite
-Carl Sagan is enthusiastic
-Put Carl Sagan into the array
-Von Braun was a rocketpunk
-Put Von Braun into the rocket
 Shout atoms at Stephen Hawking
-Seti wants signals
-Put signals between the array into the goldrecord
-Put Stephen Hawking into the equation
-Until the equation is the rocket
-Put signals over the goldrecord into the fuel
-Put the fuel with the goldrecord into the tank
-Put the tank over the array into the goldrecord
-Build the equation up
-
-Give the goldrecord back
-
-Put Seti taking Von Braun into the answer
+Put atoms at Stephen Hawking into atomone
+Put atoms at Marie Curie into atomtwo
+Shout atomone
+Shout atomtwo
+Put Newton taking atomone, and atomtwo into the answer
 Shout the answer
-Newton wants apples and needles
-Shatter apples into subapples with "-"
-Shatter needles into subneedles with "-"
-Put subapples at Stephen Hawking into applex
-Put subneedles at Stephen Hawking into needlex
 `
 
 /*
-def sqrt(num):
-    divisor = num / 2
-    for _ in range(10):
-        new_divisor = num / divisor
-        sum = new_divisor + divisor
-        divisor = sum / 2
-    return divisor
+TESTS
 
-def calc_forces(atom, inner_atom):
-    x, y, vx, vy, mass = atom.split('-')
-    x_i, y_i, vx_i, vy_i, mass_i = inner_atom.split('-')
-    x_diff = x - x_i
-    y_diff = y - y_i
-    r = sqrt(x_diff ** 2 + y_diff ** 2)
-    force = (mass * mass_i) / r ** 2
-    force_x = (x_diff / r) * force
-    force_y = (y_diff / r) * force
-    return '/'.join([force_x, force_y])
+# 1 ${rockstar_sqrt}
+Put Seti taking Von Braun into the answer
+Shout the answer
+
+sqrt(10) = 3.162 ...
+
+---
+
+# 2 Body input
+"x-y-vx-xy-m,x-y-vx-xy-m,x-y-vx-xy-m,..."
+
+0-0-0-0-1,1-0-0-0-1
+
+Put Newton taking atomone and atomtwo into the answer
+Shout the answer
+
+
+*/
+
+
+/*
 
 for atom in atoms:
     x, y, vx, vy, mass = atom.split('-')
