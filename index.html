@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<script type="text/javascript" src="js/satriani.standalone.js"></script>
+<script type="text/javascript" src="js/gravity.js"></script>
+<script type="text/javascript">
+    let source = 'Shout "Hello World"';
+
+    source = gravity_rockstar;
+
+    let output = console.log;
+    let input = () => window.prompt('Rockstar:');
+    let rockstar = new Satriani.Interpreter(output);
+    let result = rockstar.run(source, input, output);
+    console.log(result);
+</script>
+</body>
+</html>
