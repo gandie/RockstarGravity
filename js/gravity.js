@@ -26,7 +26,12 @@ sqrt(10) = 3.162 ...
 # 2 Body input
 "x-y-vx-xy-m,x-y-vx-xy-m,x-y-vx-xy-m,..."
 
+1
 0-0-0-0-1,1-0-0-0-1
+
+1.414...
+0-0-0-0-1,1-1-0-0-1
+
 
 Put Newton taking atomone and atomtwo into the answer
 Shout the answer
