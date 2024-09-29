@@ -54,12 +54,12 @@ While our focus is weaker than the accelerator
 Let the truth be atoms at our focus
 If our goal ain't the truth
 Put Newton taking our goal, and the truth into the answer
-Let resforcex be the answer at Stephen Hawking
-Let resforcey be the answer at Marie Curie
-Put resforcex over our kpis into resforcex
-Put resforcey over our kpis into resforcey
-Put the chair with resforcex into the chair
-Put responsibility with resforcey into responsibility
+Let singularities be the answer at Stephen Hawking
+Let radiation be the answer at Marie Curie
+Put singularities over our kpis into singularities
+Put radiation over our kpis into radiation
+Put the chair with singularities into the chair
+Put responsibility with radiation into responsibility
 
 Build our focus up
 
@@ -67,15 +67,15 @@ Put the requirements with the chair into the requirements
 Put dashboards with responsibility into dashboards
 Put our timeline with the requirements into our timeline
 Put the milestones with dashboards into the milestones
-Let newatom at Stephen Hawking be our timeline
-Let newatom at Marie Curie be the milestones
-Let newatom at Carl Sagan be the requirements
-Let newatom at Edwin Hubble be dashboards
-Let newatom at Albert Einstein be our kpis
-Unite newatom into resultatom with Germany
-Rock the ether with resultatom
+Let the project at Stephen Hawking be our timeline
+Let the project at Marie Curie be the milestones
+Let the project at Carl Sagan be the requirements
+Let the project at Edwin Hubble be dashboards
+Let the project at Albert Einstein be our kpis
+Unite the project into our destiny with Germany
+Rock the ether with our destiny
 Build our team up
 
-Unite the ether into resultuniverse with USA
-Give resultuniverse back
+Unite the ether into money with USA
+Give money back
 `
