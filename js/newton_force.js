@@ -49,14 +49,14 @@ Put the past without the future into the present
 Put our thoughts of our thoughts into our world
 Put the present of the present into our time
 Put our world with our time into perspective
-Put Seti taking perspective into dist
-Put dist times dist into dists
-Put the topic times my mind into massmult
-Put massmult over dists into force
-Put our thoughts over dist into anglex
-Put the present over dist into angley
-Put anglex times force into forcex
-Put angley times force into forcey
+Put Seti taking perspective into our hearts
+Put our hearts times our hearts into our souls
+Put the topic times my mind into the discussion
+Put the discussion over our souls into the void
+Put our thoughts over our hearts into anglex
+Put the present over our hearts into angley
+Put anglex times the void into forcex
+Put angley times the void into forcey
 Let the result at Stephen Hawking be forcex
 Let the result at Marie Curie be forcey
 Give the result back
