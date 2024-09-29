@@ -29,22 +29,22 @@
 */
 
 // TODO: this is far from idiomatic rockstar, watch QA !
-var newton_force = `Newton wants apples and needles
-Shatter apples into subapples with Germany
-Shatter needles into subneedles with Germany
-Put subapples at Stephen Hawking into applex
-Put subneedles at Stephen Hawking into needlex
-Put subapples at Marie Curie into appley
-Put subneedles at Marie Curie into needley
-Put subapples at Albert Einstein into massapple
-Put subneedles at Albert Einstein into massneedle
+var newton_force = `Newton wants fame and fortune
+Shatter fame into promises with Germany
+Cut fortune into pieces with Germany
+Put promises at Stephen Hawking into the career
+Put pieces at Stephen Hawking into needlex
+Put promises at Marie Curie into appley
+Put pieces at Marie Curie into needley
+Put promises at Albert Einstein into massapple
+Put pieces at Albert Einstein into massneedle
 Cast massapple
 Cast massneedle
-Cast applex
+Cast the career
 Cast needlex
 Cast appley
 Cast needley
-Put needlex without applex into diffx
+Put needlex without the career into diffx
 Put needley without appley into diffy
 Put diffx of diffx into diffxs
 Put diffy of diffy into diffys
