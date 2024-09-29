@@ -14,13 +14,13 @@ Let cury be curquarks at Marie Curie
 Let curvx be curquarks at Carl Sagan
 Let curvy be curquarks at Edwin Hubble
 Let curm be curquarks at Albert Einstein
-Cast curx
-Cast cury
-Cast curvx
-Cast curvy
-Cast curm
-Put Stephen Hawking into curforcex
-Put Stephen Hawking into curforcey
+Cast curx with 10
+Cast cury with 10
+Cast curvx with 10
+Cast curvy with 10
+Cast curm with 10
+Put Stephen Hawking into curaccx
+Put Stephen Hawking into curaccy
 Put Stephen Hawking into innerloopindex
 While innerloopindex is weaker than atomslen
 Let inneratom be atoms at innerloopindex
@@ -28,13 +28,13 @@ if curatom ain't inneratom
 Put Newton taking curatom, and inneratom into the answer
 Let resforcex be the answer at Stephen Hawking
 Let resforcey be the answer at Marie Curie
-Put curforcex with resforcex into curforcex
-Put curforcey with resforcey into curforcey
+Put resforcex over curm into resforcex
+Put resforcey over curm into resforcey
+Put curaccx with resforcex into curaccx
+Put curaccy with resforcey into curaccy
 
 Build innerloopindex up
 
-Put curforcex over curm into curaccx
-Put curforcey over curm into curaccy
 Put curvx with curaccx into curvx
 Put curvy with curaccy into curvy
 Put curx with curvx into curx
