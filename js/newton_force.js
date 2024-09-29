@@ -33,25 +33,25 @@ var newton_force = `Newton wants fame and fortune
 Shatter fame into promises with Germany
 Cut fortune into pieces with Germany
 Put promises at Stephen Hawking into the career
-Put pieces at Stephen Hawking into needlex
-Put promises at Marie Curie into appley
-Put pieces at Marie Curie into needley
-Put promises at Albert Einstein into massapple
-Put pieces at Albert Einstein into massneedle
-Cast massapple
-Cast massneedle
+Put pieces at Stephen Hawking into our hopes
+Put promises at Marie Curie into the future
+Put pieces at Marie Curie into the past
+Put promises at Albert Einstein into the topic
+Put pieces at Albert Einstein into my mind
+Cast the topic
+Burn my mind
 Cast the career
-Cast needlex
-Cast appley
-Cast needley
-Put needlex without the career into diffx
-Put needley without appley into diffy
+Burn our hopes
+Cast the future
+Burn the past
+Put our hopes without the career into diffx
+Put the past without the future into diffy
 Put diffx of diffx into diffxs
 Put diffy of diffy into diffys
 Put diffxs with diffys into hyp
 Put Seti taking hyp into dist
 Put dist times dist into dists
-Put massapple times massneedle into massmult
+Put the topic times my mind into massmult
 Put massmult over dists into force
 Put diffx over dist into anglex
 Put diffy over dist into angley
