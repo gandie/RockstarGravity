@@ -44,17 +44,17 @@ Cast the career
 Burn our hopes
 Cast the future
 Burn the past
-Put our hopes without the career into diffx
-Put the past without the future into diffy
-Put diffx of diffx into diffxs
-Put diffy of diffy into diffys
-Put diffxs with diffys into hyp
-Put Seti taking hyp into dist
+Put our hopes without the career into our thoughts
+Put the past without the future into the present
+Put our thoughts of our thoughts into our world
+Put the present of the present into our time
+Put our world with our time into perspective
+Put Seti taking perspective into dist
 Put dist times dist into dists
 Put the topic times my mind into massmult
 Put massmult over dists into force
-Put diffx over dist into anglex
-Put diffy over dist into angley
+Put our thoughts over dist into anglex
+Put the present over dist into angley
 Put anglex times force into forcex
 Put angley times force into forcey
 Let the result at Stephen Hawking be forcex
