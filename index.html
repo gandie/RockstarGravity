@@ -26,6 +26,10 @@
         let sketch = function(p) {
             let x = 100;
             let y = 100;
+            let mx_start = 0;
+            let my_start = 0;
+            let mx_end = 0;
+            let my_end = 0;
 
             p.setup = function() {
                 p.createCanvas(1000, 1000);
@@ -44,6 +48,20 @@
                     }
                     p.rect(attrs[0], attrs[1], body_size, body_size);
                 }
+            };
+            p.mousePressed = function() {
+                mx_start = p.mouseX;
+                my_start = p.mouseY;
+            };
+            p.mouseReleased = function() {
+                mx_end = p.mouseX;
+                my_end = p.mouseY;
+            };
+            p.mouseClicked = function() {
+                let vel_x = (mx_end - mx_start) / 10;
+                let vel_y = (my_end - my_start) / 10;
+                let newbody = `,${mx_start}//${my_start}//${vel_x}//${vel_y}//1.0`;
+                initial_input = initial_input + newbody;
             };
         };
 
