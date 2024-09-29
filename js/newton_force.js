@@ -28,7 +28,6 @@
 
 */
 
-// TODO: this is far from idiomatic rockstar, watch QA !
 var newton_force = `Newton wants fame and fortune
 Shatter fame into promises with Germany
 Cut fortune into pieces with Germany
@@ -53,11 +52,11 @@ Put Seti taking perspective into our hearts
 Put our hearts times our hearts into our souls
 Put the topic times my mind into the discussion
 Put the discussion over our souls into the void
-Put our thoughts over our hearts into anglex
-Put the present over our hearts into angley
-Put anglex times the void into forcex
-Put angley times the void into forcey
-Let the result at Stephen Hawking be forcex
-Let the result at Marie Curie be forcey
-Give the result back
+Put our thoughts over our hearts into our duties
+Put the present over our hearts into my faith
+Put our duties times the void into your heart
+Put my faith times the void into my heart
+Let the conference at Stephen Hawking be your heart
+Let the conference at Marie Curie be my heart
+Give the conference back
 `
