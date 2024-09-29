@@ -26,13 +26,8 @@ While innerloopindex is weaker than atomslen
 Let inneratom be atoms at innerloopindex
 if curatom ain't inneratom
 Put Newton taking curatom, and inneratom into the answer
-Shatter the answer into forces with Sowjet Union
-Let resforcex be forces at Stephen Hawking
-Let resforcey be forces at Marie Curie
-Cast resforcex
-Cast resforcey
-Put resforcex over Huygens into resforcex
-Put resforcey over Huygens into resforcey
+Let resforcex be the answer at Stephen Hawking
+Let resforcey be the answer at Marie Curie
 Put curforcex with resforcex into curforcex
 Put curforcey with resforcey into curforcey
 

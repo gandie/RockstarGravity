@@ -55,11 +55,9 @@ Put massapple times massneedle into massmult
 Put massmult over dists into force
 Put diffx over dist into anglex
 Put diffy over dist into angley
-Put force times Huygens into force
 Put anglex times force into forcex
 Put angley times force into forcey
 Let the result at Stephen Hawking be forcex
 Let the result at Marie Curie be forcey
-Unite the result into resultstr with Sowjet Union
-Give resultstr back
+Give the result back
 `
