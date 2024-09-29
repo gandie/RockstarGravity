@@ -224,7 +224,7 @@ function mutation(expr, env) {
         case "split":
             return source.toString().split(modifier || "");
         case "cast":
-            if (typeof (source) == 'string') return parseInt(source, modifier);
+            if (typeof (source) == 'string') return parseFloat(source);  //parseInt(source, modifier);
             if (typeof (source) == 'number') return String.fromCharCode(source);
             if (Array.isArray(source)) return String.fromCharCode(toScalar(source));
             throw new Error(`I don't know how to cast ${source}`);
