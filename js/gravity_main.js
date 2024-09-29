@@ -37,16 +37,16 @@ Put Stephen Hawking into our team
 While our team is weaker than the accelerator
 Let our goal be atoms at our team
 Shatter our goal into benchmarks with Germany
-Let curx be benchmarks at Stephen Hawking
-Let cury be benchmarks at Marie Curie
-Let curvx be benchmarks at Carl Sagan
-Let curvy be benchmarks at Edwin Hubble
-Let curm be benchmarks at Albert Einstein
-Cast curx
-Cast cury
-Cast curvx
-Cast curvy
-Cast curm
+Let our timeline be benchmarks at Stephen Hawking
+Let the milestones be benchmarks at Marie Curie
+Let the requirements be benchmarks at Carl Sagan
+Let dashboards be benchmarks at Edwin Hubble
+Let our kpis be benchmarks at Albert Einstein
+Cast our timeline
+Cast the milestones
+Cast the requirements
+Cast dashboards
+Cast our kpis
 Put Stephen Hawking into curaccx
 Put Stephen Hawking into curaccy
 Put Stephen Hawking into innerloopindex
@@ -56,22 +56,22 @@ if our goal ain't inneratom
 Put Newton taking our goal, and inneratom into the answer
 Let resforcex be the answer at Stephen Hawking
 Let resforcey be the answer at Marie Curie
-Put resforcex over curm into resforcex
-Put resforcey over curm into resforcey
+Put resforcex over our kpis into resforcex
+Put resforcey over our kpis into resforcey
 Put curaccx with resforcex into curaccx
 Put curaccy with resforcey into curaccy
 
 Build innerloopindex up
 
-Put curvx with curaccx into curvx
-Put curvy with curaccy into curvy
-Put curx with curvx into curx
-Put cury with curvy into cury
-Let newatom at Stephen Hawking be curx
-Let newatom at Marie Curie be cury
-Let newatom at Carl Sagan be curvx
-Let newatom at Edwin Hubble be curvy
-Let newatom at Albert Einstein be curm
+Put the requirements with curaccx into the requirements
+Put dashboards with curaccy into dashboards
+Put our timeline with the requirements into our timeline
+Put the milestones with dashboards into the milestones
+Let newatom at Stephen Hawking be our timeline
+Let newatom at Marie Curie be the milestones
+Let newatom at Carl Sagan be the requirements
+Let newatom at Edwin Hubble be dashboards
+Let newatom at Albert Einstein be our kpis
 Unite newatom into resultatom with Germany
 Rock the ether with resultatom
 Build our team up
