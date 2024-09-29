@@ -31,11 +31,11 @@
 */
 var gravity_main = `Listen to the universe
 Shatter the universe into atoms with USA
-Put atoms into atomslen
+Put atoms into the accelerator
 Rock the ether
-Put Stephen Hawking into outerloopindex
-While outerloopindex is weaker than atomslen
-Let curatom be atoms at outerloopindex
+Put Stephen Hawking into our team
+While our team is weaker than the accelerator
+Let curatom be atoms at our team
 Shatter curatom into curquarks with Germany
 Let curx be curquarks at Stephen Hawking
 Let cury be curquarks at Marie Curie
@@ -50,7 +50,7 @@ Cast curm
 Put Stephen Hawking into curaccx
 Put Stephen Hawking into curaccy
 Put Stephen Hawking into innerloopindex
-While innerloopindex is weaker than atomslen
+While innerloopindex is weaker than the accelerator
 Let inneratom be atoms at innerloopindex
 if curatom ain't inneratom
 Put Newton taking curatom, and inneratom into the answer
@@ -74,7 +74,7 @@ Let newatom at Edwin Hubble be curvy
 Let newatom at Albert Einstein be curm
 Unite newatom into resultatom with Germany
 Rock the ether with resultatom
-Build outerloopindex up
+Build our team up
 
 Unite the ether into resultuniverse with USA
 Give resultuniverse back
