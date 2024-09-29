@@ -1,30 +1,60 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <script type="text/javascript" src="js/p5.min.js"></script>
+        <script type="text/javascript" src="js/satriani.standalone.js"></script>
+        <script type="text/javascript" src="js/constants.js"></script>
+        <script type="text/javascript" src="js/calc_root.js"></script>
+        <script type="text/javascript" src="js/newton_force.js"></script>
+        <script type="text/javascript" src="js/gravity.js"></script>
+    </head>
 <body>
+    <div></div>
+    <script type="text/javascript">
+        let source = 'Shout "Hello World"';
 
-<script type="text/javascript" src="js/satriani.standalone.js"></script>
-<script type="text/javascript" src="js/constants.js"></script>
-<script type="text/javascript" src="js/calc_root.js"></script>
-<script type="text/javascript" src="js/newton_force.js"></script>
-<script type="text/javascript" src="js/gravity.js"></script>
-<script type="text/javascript">
-    let source = 'Shout "Hello World"';
+        source = gravity_rockstar;
 
-    source = gravity_rockstar;
+        let output = console.log;
 
-    let output = console.log;
+        //let initial_input = "0//0//0//0//1,10//10//0//0//1,10//0//0//0//1";
+        let initial_input = "500.0//500.0//0.0//0.0//1000.0,50.0//500.0//0.0//1.0//1.0";
+        //let initial_input = "500.0//500.0//1.0//1.0//1.0";
+        // let input = () => window.prompt('Rockstar:');
+        let input = () => initial_input;
+        let rockstar = new Satriani.Interpreter(output);
 
-    let initial_input = "0//0//0//0//1,10//10//0//0//1,10//0//0//0//1";
-    // let input = () => window.prompt('Rockstar:');
-    let input = () => initial_input;
-    let rockstar = new Satriani.Interpreter(output);
+        /*
+        for (let index = 0; index < 10; index++) {
+            console.log(initial_input);
+            initial_input = rockstar.run(source, input, output);
+            // let result = rockstar.run(source, input, output);
+        }
+        //console.log(result);
+        */
+        let sketch = function(p) {
+            let x = 100;
+            let y = 100;
 
-    for (let index = 0; index < 10; index++) {
-        console.log(initial_input);
-        initial_input = rockstar.run(source, input, output);
-        // let result = rockstar.run(source, input, output);
-    }
-    //console.log(result);
-</script>
+            p.setup = function() {
+                p.createCanvas(1000, 1000);
+            };
+
+            p.draw = function() {
+                p.background(0);
+                p.fill(255);
+                console.log(initial_input);
+                initial_input = rockstar.run(source, input, output);
+                let bodies = initial_input.split(",");
+                for (const body of bodies) {
+                    let attrs = body.split("//");
+                    p.rect(attrs[0], attrs[1], 5, 5);
+                }
+            };
+        };
+
+        let myp5 = new p5(sketch);
+
+    </script>
 </body>
 </html>

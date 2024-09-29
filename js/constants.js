@@ -33,5 +33,5 @@ Put Von Braun times Von Braun into Cassini
 Put Cassini times Von Braun into Huygens
 Germany is "//"
 USA is ","
-Sowjet Union is "/"
+Sowjet Union is "?"
 `
