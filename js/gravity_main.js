@@ -35,13 +35,13 @@ Put atoms into the accelerator
 Rock the ether
 Put Stephen Hawking into our team
 While our team is weaker than the accelerator
-Let curatom be atoms at our team
-Shatter curatom into curquarks with Germany
-Let curx be curquarks at Stephen Hawking
-Let cury be curquarks at Marie Curie
-Let curvx be curquarks at Carl Sagan
-Let curvy be curquarks at Edwin Hubble
-Let curm be curquarks at Albert Einstein
+Let our goal be atoms at our team
+Shatter our goal into benchmarks with Germany
+Let curx be benchmarks at Stephen Hawking
+Let cury be benchmarks at Marie Curie
+Let curvx be benchmarks at Carl Sagan
+Let curvy be benchmarks at Edwin Hubble
+Let curm be benchmarks at Albert Einstein
 Cast curx
 Cast cury
 Cast curvx
@@ -52,8 +52,8 @@ Put Stephen Hawking into curaccy
 Put Stephen Hawking into innerloopindex
 While innerloopindex is weaker than the accelerator
 Let inneratom be atoms at innerloopindex
-if curatom ain't inneratom
-Put Newton taking curatom, and inneratom into the answer
+if our goal ain't inneratom
+Put Newton taking our goal, and inneratom into the answer
 Let resforcex be the answer at Stephen Hawking
 Let resforcey be the answer at Marie Curie
 Put resforcex over curm into resforcex
