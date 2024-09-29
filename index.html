@@ -18,22 +18,10 @@
 
         let output = console.log;
 
-        //let initial_input = "0//0//0//0//1,10//10//0//0//1,10//0//0//0//1";
-        //let initial_input = "500.0//500.0//0.0//0.0//1000.0,50.0//500.0//0.0//1.0//1.0";
         let initial_input = "500.0//500.0//0.0//0.0//1000.0,50.0//500.0//0.0//1.0//1.0,250.0//500.0//0.0//1.0//1.0";
-        //let initial_input = "500.0//500.0//1.0//1.0//1.0";
-        // let input = () => window.prompt('Rockstar:');
         let input = () => initial_input;
         let rockstar = new Satriani.Interpreter(output);
-        /*
 
-        for (let index = 0; index < 10; index++) {
-            console.log(initial_input);
-            initial_input = rockstar.run(source, input, output);
-            // let result = rockstar.run(source, input, output);
-        }
-        //console.log(result);
-        */
         console.log(source);
         let sketch = function(p) {
             let x = 100;
@@ -46,7 +34,6 @@
             p.draw = function() {
                 p.background(0);
                 p.fill(255);
-                //console.log(initial_input);
                 initial_input = rockstar.run(source, input, output);
                 let bodies = initial_input.split(",");
                 for (const body of bodies) {

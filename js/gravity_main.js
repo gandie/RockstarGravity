@@ -1,3 +1,34 @@
+/*
+
+    Gravity sim main loop, takes array of bodies, calculates gravity forces
+    and updates velocity and position according to that.
+
+    Requires:           "constants.js, calc_root.js, newton_force.js"
+
+    Environment:        Reads body array from STDIN. String format:
+                        "x<Germany>y<Germany>vx<Germany>vy<Germany>m<USA>..."
+
+    Pseudo:
+
+    for atom in atoms:
+        x, y, vx, vy, mass = atom.split('-')
+        x_force = 0
+        y_force = 0
+        for inner_atom in atoms:
+            if atom == inner_atom:
+                continue
+            forces = calc_force(atom, inner_atom)
+            x_force += calc_xforce(atom, inner_atom)
+            y_force += calc_yforce(atom, inner_atom)
+        acc_x = x_force / mass
+        acc_y = y_force / mass
+
+        vx = vx + acc_x
+        vy = vy + acc_y
+
+        x = x + vx
+        y = y + vy
+*/
 var gravity_main = `Listen to the universe
 Shatter the universe into atoms with USA
 Put atoms into atomslen
@@ -11,11 +42,11 @@ Let cury be curquarks at Marie Curie
 Let curvx be curquarks at Carl Sagan
 Let curvy be curquarks at Edwin Hubble
 Let curm be curquarks at Albert Einstein
-Cast curx with 10
-Cast cury with 10
-Cast curvx with 10
-Cast curvy with 10
-Cast curm with 10
+Cast curx
+Cast cury
+Cast curvx
+Cast curvy
+Cast curm
 Put Stephen Hawking into curaccx
 Put Stephen Hawking into curaccy
 Put Stephen Hawking into innerloopindex
