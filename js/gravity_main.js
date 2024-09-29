@@ -43,28 +43,28 @@ Let the requirements be benchmarks at Carl Sagan
 Let dashboards be benchmarks at Edwin Hubble
 Let our kpis be benchmarks at Albert Einstein
 Cast our timeline
-Cast the milestones
+Burn the milestones
 Cast the requirements
+Burn our kpis
 Cast dashboards
-Cast our kpis
-Put Stephen Hawking into curaccx
-Put Stephen Hawking into curaccy
-Put Stephen Hawking into innerloopindex
-While innerloopindex is weaker than the accelerator
-Let inneratom be atoms at innerloopindex
-if our goal ain't inneratom
-Put Newton taking our goal, and inneratom into the answer
+Put Stephen Hawking into the chair
+Put Stephen Hawking into responsibility
+Put Stephen Hawking into our focus
+While our focus is weaker than the accelerator
+Let the truth be atoms at our focus
+If our goal ain't the truth
+Put Newton taking our goal, and the truth into the answer
 Let resforcex be the answer at Stephen Hawking
 Let resforcey be the answer at Marie Curie
 Put resforcex over our kpis into resforcex
 Put resforcey over our kpis into resforcey
-Put curaccx with resforcex into curaccx
-Put curaccy with resforcey into curaccy
+Put the chair with resforcex into the chair
+Put responsibility with resforcey into responsibility
 
-Build innerloopindex up
+Build our focus up
 
-Put the requirements with curaccx into the requirements
-Put dashboards with curaccy into dashboards
+Put the requirements with the chair into the requirements
+Put dashboards with responsibility into dashboards
 Put our timeline with the requirements into our timeline
 Put the milestones with dashboards into the milestones
 Let newatom at Stephen Hawking be our timeline
